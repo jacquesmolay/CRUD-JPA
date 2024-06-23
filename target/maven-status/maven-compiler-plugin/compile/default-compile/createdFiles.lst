@@ -1,0 +1,12 @@
+com/mycompany/miservlet/persistencia/UsuarioJpaController.class
+com/mycompany/miservlet/logica/Usuario.class
+com/mycompany/miservlet/persistencia/exceptions/NonexistentEntityException.class
+com/mycompany/miservlet/persistencia/ControladoraPersistencia.class
+com/mycompany/miservlet/servlets/SvEditar.class
+com/mycompany/miservlet/persistencia/exceptions/IllegalOrphanException.class
+com/mycompany/miservlet/resources/JakartaEE10Resource.class
+com/mycompany/miservlet/logica/Controladora.class
+com/mycompany/miservlet/JakartaRestConfiguration.class
+com/mycompany/miservlet/servlets/PrimerServlet.class
+com/mycompany/miservlet/servlets/SvEliminar.class
+com/mycompany/miservlet/persistencia/exceptions/PreexistingEntityException.class

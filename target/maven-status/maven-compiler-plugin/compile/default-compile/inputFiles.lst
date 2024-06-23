@@ -1,0 +1,11 @@
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/servlets/PrimerServlet.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/persistencia/UsuarioJpaController.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/persistencia/ControladoraPersistencia.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/logica/Usuario.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/persistencia/exceptions/PreexistingEntityException.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/persistencia/exceptions/IllegalOrphanException.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/resources/JakartaEE10Resource.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/logica/Controladora.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/persistencia/exceptions/NonexistentEntityException.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/servlets/SvEliminar.java
+/home/el_pulento/NetBeansProjects/MiServlet/src/main/java/com/mycompany/miservlet/JakartaRestConfiguration.java
